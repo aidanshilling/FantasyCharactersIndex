@@ -1,0 +1,6 @@
+﻿  character.cpp
+  character_index.cpp
+  create_character.cpp
+  Generating Code...
+C:\Users\aidan\source\repos\FantasyCharactersIndex\FantasyCharactersIndex\character_index.cpp(6,20): warning C4018:  '<': signed/unsigned mismatch
+  FantasyCharactersIndex.vcxproj -> C:\Users\aidan\source\repos\FantasyCharactersIndex\Debug\FantasyCharactersIndex.exe
